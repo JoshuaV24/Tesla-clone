@@ -3,7 +3,6 @@ import styled from "styled-components"
 
 
 
-//to do: copy the menu functionality, don't follow what the dude in the video does
 
 
 function Header() {
